@@ -43,3 +43,6 @@ are self-explanatory anyway.
 form. If you want to change it, please do not post the modified
 game on bulletin boards.  Thank you!
 
+
+![Screenshot](https://github.com/dennisgbrown/Return_to_the_Earth/blob/master/rtte.jpg?raw=true "Return to the Earth")
+
