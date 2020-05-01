@@ -43,4 +43,3 @@ are self-explanatory anyway.
 form. If you want to change it, please do not post the modified
 game on bulletin boards.  Thank you!
 
-
